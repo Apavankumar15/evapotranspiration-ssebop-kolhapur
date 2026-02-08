@@ -1,0 +1,30 @@
+
+
+| Library    | use ful for              |
+| ---------- | ------------------------ |
+| numpy      | Numerical calculations   |
+| pandas     | Time-series handling     |
+| matplotlib | Plotting maps & graphs   |
+| geopandas  | AOI & vector data        |
+| rasterio   | Raster I/O               |
+| rioxarray  | Raster + CRS handling    |
+| xarray     | NetCDF & ERA5 processing |
+| shapely    | Geometry operations      |
+| pyproj     | CRS & projections        |
+| netCDF4    | ERA5 `.nc` file reading  |
+| cdsapi     | ERA5 download (optional) |
+
+
+numpy
+pandas
+matplotlib
+geopandas
+rasterio
+rioxarray
+xarray
+shapely
+pyproj
+netCDF4
+cdsapi
+
+
